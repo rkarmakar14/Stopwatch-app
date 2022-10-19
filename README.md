@@ -9,3 +9,4 @@
 - Learnt about setTimeout to start its function in JavaScript.<br>
 - Learnt about how to call a function in the function of JavaScript.<br>
 - Learnt about how to create a function on Onclick in html and make a function to recall it onClick.<br>
+<img width="960" alt="2022-10-19" src="https://user-images.githubusercontent.com/110077056/196688564-7c43471a-7af0-444c-8e0c-e21eb25deb34.png">
